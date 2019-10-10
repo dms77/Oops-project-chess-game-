@@ -43,7 +43,7 @@ public class Main implements ActionListener{
       public Piece sol;
  /*By providing a private constructor you prevent class instances from being created in any place other than this very class.*/
   public Main(){
-  //sol =new Soldier();
+  //konda yerri na dash ga
   	f=new JFrame("CHESSMATES");
   	f2=new JFrame("Welcome to CHESSMATES");
   	f3=new JFrame("Rules Page");
@@ -55,7 +55,7 @@ public class Main implements ActionListener{
   	thinBorder = new LineBorder(Color.YELLOW, 5);
     squares = new JButton [8][8];
     tools=new JToolBar();
-    home =new JButton("Home");
+    home =new JButton("Home happy");
     home.addActionListener(this);
     resetgame=new JButton("Reset game");
     resetgame.addActionListener(this);
