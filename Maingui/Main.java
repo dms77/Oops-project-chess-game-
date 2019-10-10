@@ -26,7 +26,7 @@ public class Main implements ActionListener{
       private Image img;
       private Image img2;
       private JButton B1;
-      private JButton B2;
+      private JButton B2;//happy hacktoberfest
       private JButton B3;
       private int req;
       private JButton b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b24,b25,b26,b27,b28,b29,b30,b31,b32;
